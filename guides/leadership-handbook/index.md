@@ -4,7 +4,7 @@ Owner: Vision 2040 PMO
 
 Status: Draft
 
-Version: 1.1.0
+Version: 1.1.1
 
 ## Purpose
 
@@ -33,6 +33,7 @@ Read these documents before editing the leadership guides:
 ## Review Tools
 
 - [Leadership Handbook Review Checklist](review-checklist.md)
+- [Leadership Guide Source Reference Matrix](source-reference-matrix.md)
 
 ## Guides
 
