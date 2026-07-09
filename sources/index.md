@@ -11,3 +11,6 @@ Sources provide evidence for the repository. They should be referenced by other 
 ## Source Materials
 
 - [RHEMA Nigeria Vision 2040.pdf](RHEMA%20Nigeria%20Vision%202040.pdf)
+- [Workstreams Overview](workstreams-overview.md)
+- [Leadership Philosophy](leadership-philosophy.md)
+- [Governance Philosophy](governance-philosophy.md)
