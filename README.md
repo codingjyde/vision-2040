@@ -17,6 +17,14 @@ It is designed to preserve institutional knowledge, reduce duplication, improve 
 - [AGENTS.md](AGENTS.md) defines how AI and contributors should work in this repository.
 - [ORG.md](ORG.md) defines the organisational documentation framework.
 
+## Vision 2040 Leadership Handbook
+
+The first major body of work in this repository is the [Vision 2040 Leadership Handbook](guides/leadership-handbook/index.md).
+
+It contains draft leadership guides for the nine Vision 2040 workstream leads.
+
+These guides are not ordinary job descriptions. They are designed to support recruitment, onboarding, coaching, performance review, succession planning and knowledge transfer.
+
 ## Repository Structure
 
 - [principles/](principles/index.md) contains enduring organisational principles and decision filters.
