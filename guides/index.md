@@ -8,8 +8,10 @@ Status: Initial scaffold
 
 Guides help people understand concepts, roles, practices, and expectations.
 
-## Leadership Handbook
+## Guide Collections
 
-The [Vision 2040 Leadership Handbook](leadership-handbook/index.md) contains guides for the nine workstream leadership roles in the 2026-2027 restructuring phase.
+- [Vision 2040 Leadership Handbook](leadership-handbook/index.md)
 
-The guides are designed to support recruitment, onboarding, coaching, performance review, succession planning and knowledge transfer.
+## Editorial Note
+
+Guides should explain, orient and develop. They should not replace approved policies, procedures or source documents.
