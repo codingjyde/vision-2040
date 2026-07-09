@@ -4,7 +4,7 @@ Owner: Vision 2040 PMO
 
 Status: Template
 
-Version: 1.1.0
+Version: 1.1.1
 
 ## Document Control
 
@@ -230,4 +230,4 @@ This should preserve wisdom, warnings and practical counsel.
 
 ## Review Checklist
 
-Before approval, review the guide against [Leadership Handbook Review Checklist](../guides/leadership-handbook/review-checklist.md) or the current approved checklist location.
+Before approval, review the guide against [Leadership Handbook Review Checklist](../guides/leadership-handbook/review-checklist.md) from the repository root, or against the current approved checklist if its location changes.
