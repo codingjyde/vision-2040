@@ -2,13 +2,33 @@
 id: LG1
 title: Governance & Leadership
 workstream: WS01
-version: 0.1.0
+version: 0.2.0
 status: Draft
 owner: Vision 2040 PMO
 period: 2026-2027 Restructuring Phase
 ---
 
 # Leadership Guide 01: Governance & Leadership
+
+## Document Control
+
+Official Workstream Name: Governance & Leadership
+
+Working Name: Governance & Leadership
+
+Owner: Vision 2040 PMO
+
+Review Cycle: Quarterly during the restructuring phase
+
+Primary Source Documents:
+
+- [Workstreams Overview](../../sources/workstreams-overview.md)
+- [Vision 2040 Goals](../../sources/vision-2040-goals.md)
+- [Workstream KPI Framework Summary](../../sources/workstream-kpi-framework-summary.md)
+- [Governance Removes Friction](../../principles/governance-removes-friction.md)
+- [Build Before Scale](../../principles/build-before-scale.md)
+- [Decision 0001](../../decisions/0001-use-leadership-guides-instead-of-job-descriptions.md)
+- [Decision 0002](../../decisions/0002-use-source-summaries-for-handbook-alignment.md)
 
 ## Purpose of this Guide
 
@@ -18,13 +38,23 @@ It supports recruitment, appointment, onboarding, coaching, performance review, 
 
 This is not a conventional job description. It is a leadership guide.
 
+## Source References
+
+This guide is based on the approved Workstream JD & KPI Framework and the current Vision 2040 source summaries.
+
+It should be reviewed against the approved PDF before moving from Draft to Review status.
+
+Where this guide adds leadership wisdom beyond the source framework, that material should be treated as guidance rather than an approved organisational fact.
+
 ## Why This Workstream Exists
 
 Vision 2040 is an organisational transformation programme. It is not simply a collection of projects.
 
 Transformation requires clear governance, disciplined decision-making and consistent execution.
 
-This workstream designs the operating framework that enables every other workstream to succeed. Its responsibility is not to control the programme. Its responsibility is to create clarity.
+This workstream designs the operating framework that enables every other workstream to succeed.
+
+Its responsibility is not to control the programme. Its responsibility is to create clarity.
 
 ## Mission Statement
 
@@ -70,9 +100,22 @@ The Workstream Lead is responsible for:
 - supporting phase-gate readiness assessments;
 - preserving strategic alignment across all workstreams.
 
+## Strategic Responsibilities
+
+Beyond producing governance documents, the Workstream Lead must build the habits that make governance work.
+
+This includes:
+
+- reducing decision latency;
+- improving meeting quality;
+- ensuring significant decisions are recorded;
+- protecting the PMO from becoming bureaucratic;
+- helping leaders distinguish ownership from involvement;
+- ensuring the governance model can scale beyond the 2026-2027 phase.
+
 ## Key Deliverables
 
-### 2026
+### 2026 Deliverables
 
 - Governance Model
 - PMO Charter
@@ -82,7 +125,7 @@ The Workstream Lead is responsible for:
 - Governance Checklists
 - Governance Training Materials
 
-### 2027
+### 2027 Deliverables
 
 - Governance Validation
 - Phase-Gate Criteria
@@ -103,10 +146,12 @@ They measure success by organisational effectiveness rather than personal visibi
 
 ## Recruitment Profile
 
+### Essential Experience
+
 Look for someone with:
 
 - senior organisational leadership experience;
-- governance or board experience;
+- governance or board exposure;
 - programme leadership experience;
 - strong judgement;
 - ability to write clearly;
@@ -116,7 +161,28 @@ Look for someone with:
 - courage to challenge respectfully;
 - patience to build before scaling.
 
-A professional project manager may serve strongly on the team, but the Workstream Lead should not be chosen only because they can manage tasks. This role requires organisational judgement.
+### Preferred Experience
+
+Helpful experience includes:
+
+- PMO design or implementation;
+- organisational transformation;
+- board or executive committee support;
+- decision-rights design;
+- change management;
+- strategy execution.
+
+### Personal Qualities
+
+The person should be trusted, calm, disciplined, wise, discreet and direct without being harsh.
+
+They must care more about the health of the programme than their own visibility.
+
+### Technical Competencies
+
+A professional project manager may serve strongly on the team, but the Workstream Lead should not be chosen only because they can manage tasks.
+
+This role requires organisational judgement.
 
 ## Who Should Not Be Appointed
 
@@ -156,21 +222,50 @@ Avoid appointing someone who:
 
 ## Working Relationships
 
-Reports to: Vision 2040 Executive Leadership.
+### Reports To
 
-Collaborates with: all Workstream Leads.
+Vision 2040 Executive Leadership.
 
-Supports: Vision 2040 PMO.
+### Collaborates With
 
-Advises: Executive Leadership.
+All Workstream Leads.
 
-Key partners: Data & Reporting, Finance & Funding, Organisation Structure.
+### Supports
+
+Vision 2040 PMO.
+
+### Advises
+
+Executive Leadership.
+
+### Key Dependencies
+
+Key partners include Data & Reporting, Finance & Funding, and Organisation Structure.
 
 ## Decision Authority
 
-May design governance frameworks, recommend governance changes, define governance templates and recommend decision structures.
+### May Decide
 
-Requires approval for organisation-wide governance adoption, PMO Charter approval and major governance policy changes.
+- Governance draft formats.
+- Working templates.
+- Documentation version-control practices for the workstream.
+- Internal workstream meeting rhythm.
+
+### May Recommend
+
+- Governance model.
+- Decision-rights framework.
+- PMO Charter.
+- Executive review rhythm.
+- Escalation framework.
+- Phase-gate criteria.
+
+### Requires Approval For
+
+- Organisation-wide governance adoption.
+- PMO Charter approval.
+- Major governance policy changes.
+- Any governance change that affects executive authority.
 
 ## Team Structure
 
@@ -200,15 +295,15 @@ The workstream is succeeding when:
 
 ## KPI Scorecard
 
-| KPI | Measurement | Target |
-| --- | --- | --- |
-| Governance Framework | Leadership approval | Approved |
-| PMO Charter | Ratification | Approved |
-| Decision Rights | Coverage across workstreams | Complete |
-| Executive Reviews | Review cadence | On schedule |
-| Escalation Compliance | Use of approved process | At least 95% |
-| Governance Training | Workstream Lead completion | 100% |
-| 2028 Readiness | Gate assessment | At least 90% |
+| KPI | Measurement | Target | Frequency | Weight | Source |
+|-----|-------------|--------|-----------|--------|--------|
+| Governance framework approved | Leadership sign-off | Q3 2026 | Quarterly | 20% | KPI Framework Summary |
+| PMO Charter ratified | Binary approval | Q2 2026 | Monthly | 15% | KPI Framework Summary |
+| Decision checklist coverage | Percentage of categories covered | At least 90% | Monthly | 15% | KPI Framework Summary |
+| Escalation protocol adherence | Percentage following protocol | At least 95% | Monthly | 15% | KPI Framework Summary |
+| Executive review compliance | Percentage conducted on schedule | 100% | Quarterly | 15% | KPI Framework Summary |
+| Governance training completion | Percentage of leads trained | 100% | Quarterly | 10% | KPI Framework Summary |
+| 2028 readiness score | Gate assessment | At least 90% | Quarterly | 10% | KPI Framework Summary |
 
 ## Common Mistakes
 
@@ -229,19 +324,48 @@ The PMO succeeds when leaders say, "Things work better because governance is cle
 
 ## Annual Leadership Rhythm
 
-Weekly: review issues, support workstreams and monitor governance compliance.
+### Weekly
 
-Monthly: conduct governance review, PMO meeting, risk review and executive reporting.
+Review issues, support workstreams and monitor governance compliance.
 
-Quarterly: audit governance, review decision effectiveness, update documentation and improve processes.
+### Monthly
 
-Annually: evaluate governance, record lessons learned, update the governance model and prepare transition documentation.
+Conduct governance review, PMO meeting, risk review and executive reporting.
+
+### Quarterly
+
+Audit governance, review decision effectiveness, update documentation and improve processes.
+
+### Annually
+
+Evaluate governance, record lessons learned, update the governance model and prepare transition documentation.
 
 ## Vision 2040 Goals Supported
 
-This workstream directly supports every Vision 2040 goal by providing the governance systems required for sustainable execution.
+This workstream supports every Vision 2040 goal indirectly by providing the governance systems required for sustainable execution.
 
 Its primary contribution is leadership effectiveness, organisational unity, programme accountability, sustainable expansion and institutional resilience.
+
+## Assumptions and Open Questions
+
+### Assumptions
+
+- The Vision 2040 PMO will have enough authority to enforce reporting rhythms and escalation procedures.
+- Executive Leadership will approve a clear PMO Charter.
+- Workstream Leads will participate in governance training.
+
+### Open Questions
+
+- Who will serve as the Executive Sponsor for this workstream?
+- What decision categories require Executive Leadership approval?
+- What decisions may be delegated to the PMO?
+- What format will be used for the decision log?
+
+### Decisions Required
+
+- Approve the PMO Charter.
+- Approve the decision-rights framework.
+- Approve the phase-gate criteria for 2028 readiness.
 
 ## Legacy
 
