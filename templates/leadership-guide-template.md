@@ -4,13 +4,15 @@ Owner: Vision 2040 PMO
 
 Status: Template
 
-Version: 1.0.0
+Version: 1.1.0
 
 ## Document Control
 
 Document:
 
-Workstream:
+Official Workstream Name:
+
+Working Name, if different:
 
 Version:
 
@@ -20,15 +22,31 @@ Owner:
 
 Review Cycle:
 
+Primary Source Documents:
+
 ## Purpose of this Guide
 
 Explain why this guide exists and who should use it.
 
-A leadership guide is not an ordinary job description. It should help recruit, onboard, coach, evaluate, and eventually replace the workstream lead.
+A leadership guide is not an ordinary job description. It should help recruit, onboard, coach, evaluate and eventually replace the workstream lead.
+
+## Source References
+
+List the documents that shaped the guide.
+
+At minimum, include:
+
+- Workstreams Overview
+- Approved Workstream JD & KPI Framework, where available
+- Relevant Vision 2040 source material
+- Relevant principles
+- Relevant decision records
+
+Do not repeat source material unnecessarily. Link to it.
 
 ## Why This Workstream Exists
 
-Explain the reason the workstream exists in the 2026–2027 restructuring phase.
+Explain the reason the workstream exists in the 2026-2027 restructuring phase.
 
 Connect the workstream to the wider Vision 2040 programme.
 
@@ -46,7 +64,7 @@ Mention key dependencies and related workstreams.
 
 Describe how the workstream should think.
 
-Include principles, tensions, and warnings.
+Include principles, tensions and warnings.
 
 ## Core Responsibilities
 
@@ -58,7 +76,7 @@ Group related responsibilities under clear subheadings.
 
 Describe the deeper leadership work beyond task delivery.
 
-This section should explain what the leader must build, protect, steward, or change.
+This section should explain what the leader must build, protect, steward or change.
 
 ## Key Deliverables
 
@@ -74,7 +92,7 @@ List the validation-phase deliverables.
 
 Describe the kind of person who will thrive in the role.
 
-Focus on thinking style, character, judgement, maturity, and leadership approach.
+Focus on thinking style, character, judgement, maturity and leadership approach.
 
 ## Recruitment Profile
 
@@ -150,9 +168,13 @@ Include indicators beyond formal KPIs.
 
 Use the approved KPI framework where available.
 
-| KPI | Measurement | Target | Frequency | Weight |
-|-----|-------------|--------|-----------|--------|
-| | | | | |
+Do not invent KPI weights or targets if the source document does not provide them.
+
+Mark proposed additions clearly.
+
+| KPI | Measurement | Target | Frequency | Weight | Source |
+|-----|-------------|--------|-----------|--------|--------|
+| | | | | | |
 
 ## Common Mistakes
 
@@ -178,14 +200,34 @@ Map the workstream to the wider Vision 2040 goals.
 
 If the link is indirect, explain the link honestly.
 
+## Assumptions and Open Questions
+
+Record anything not fully settled by source material.
+
+### Assumptions
+
+- 
+
+### Open Questions
+
+- 
+
+### Decisions Required
+
+- 
+
 ## Legacy
 
 Describe what should remain after the workstream closes.
 
-Focus on systems, documentation, knowledge, people, and capability.
+Focus on systems, documentation, knowledge, people and capability.
 
 ## Letter to My Successor
 
 Write as if the outgoing Workstream Lead is addressing the next person who inherits the responsibility.
 
-This should preserve wisdom, warnings, and practical counsel.
+This should preserve wisdom, warnings and practical counsel.
+
+## Review Checklist
+
+Before approval, review the guide against [Leadership Handbook Review Checklist](../guides/leadership-handbook/review-checklist.md) or the current approved checklist location.
